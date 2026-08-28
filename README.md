@@ -1,0 +1,2 @@
+# View
+Visor de imágenes
